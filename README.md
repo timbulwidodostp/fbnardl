@@ -1,6 +1,8 @@
 # fbnardl
 Fourier Bootstrap Nonlinear Autoregressive Distributed Lag Model Use fbnardl With STATA 19
 
+https://www.youtube.com/watch?v=WzbdxPvKTPo
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
